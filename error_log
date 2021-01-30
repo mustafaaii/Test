@@ -1,0 +1,1 @@
+[29-Jan-2021 20:11:59 UTC] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/u9978874/public_html/wp-content/plugins/all-in-one-seo-pack/app/Common/Utils/PluginUpgraderSilentAjax.php on line 526
